@@ -7,7 +7,7 @@
 <p>Dataset Link: <a href="https://huggingface.co/datasets/tatsu-lab/alpaca">Alpaca Dataset</a></p>
 
 <h2>Large Language Models (LLMs)</h2>
-<p>I employed four different types of Large Language Models for this task. Here are the details along with their respective links:</p>
+<p>I employed six different types of Large Language Models for this task. Here are the details along with their respective links:</p>
 
 <ol>
   <li>
@@ -25,6 +25,14 @@
   <li>
     <h3>TinyLlama-1.1B-Chat-v1.0</h3>
     <p>Model Link: <a href="https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0">TinyLlama-1.1B-Chat-v1.0</a></p>
+  </li>
+   <li>
+    <h3>Mistral-7B-Instruct-v0.2</h3>
+    <p>Model Link: <a href="https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2">Mistral-7B-Instruct-v0.2</a></p>
+  </li>
+   <li>
+    <h3>Starling-LM-7B-alpha</h3>
+    <p>Model Link: <a href="https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha">Starling-LM-7B-alpha</a></p>
   </li>
 </ol>
 
